@@ -92,7 +92,7 @@ service-worker: true
 
 
 # Quick Link
-Quick Link: [
+friend: [
     {
         title: "WP",
         href: "https://wangpei.ink"
