@@ -19,7 +19,6 @@ sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 # weibo_username:     暂无
-zhihu_username:     暂无
 github_username:    DeSoiat
 facebook_username:  暂无
 jianshu_username:   暂无
