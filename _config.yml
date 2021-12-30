@@ -92,7 +92,7 @@ service-worker: true
 
 
 
-# Friends
+# Quick Link
 friends: [
     {
         title: "WP",
