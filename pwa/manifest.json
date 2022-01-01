@@ -3,13 +3,13 @@
   "short_name": "DeSoiat Blog",
   "description": "DeSoiat Blog",
   "icons": [{
-    "src": "icons/crab128.jpg",
+    "src": "icons/icon128.jpg",
     "sizes": "128x128",
-    "type": "image/jpg"
+    "type": "image/png"
   }, {
-    "src": "icons/carb512.jpg",
+    "src": "icons/icon512.png",
     "sizes": "512x512",
-    "type": "image/jpg"
+    "type": "image/png"
   }],
   "background_color": "#fff",
   "theme_color": "#000",
