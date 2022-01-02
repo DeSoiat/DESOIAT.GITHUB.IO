@@ -52,8 +52,8 @@ $ git config --global user.email "email@example.com"
 ```
 CD C:\Users\DeSoiat\Documents\GitHub\DESOIAT.GITHUB.IO
 git status
-
 ```
+![picture1](/img/gitlfs/1.PNG)
 
 第二步
 
@@ -61,8 +61,10 @@ git status
 
 ```
 git lfs install
-
 ```
+![picture2](/img/gitlfs/2.PNG)
+
+
 
 第三步
 
@@ -78,8 +80,8 @@ git lfs track "*.doc"
 git lfs track "*.txt"
 git lfs track "*.jpg"
 git lfs track "*.png"
-
 ```
+![picture3](/img/gitlfs/3.PNG)
 
 第四步
 
@@ -89,6 +91,8 @@ git lfs track "*.png"
 git add download/*
 git status
 ```
+![picture4](/img/gitlfs/4.PNG)
+
 
 第五步 
 
@@ -99,6 +103,10 @@ git add .gitattributes
 ```
 再次 查看状态
 
+![picture5](/img/gitlfs/5.PNG)
+
+
+
 第六步
 
 commit
@@ -107,6 +115,8 @@ commit
  git commit -m “description”
  ```
  
+ ![picture6](/img/gitlfs/6.PNG)
+ 
 第七步
 
 更新上传至仓库
@@ -114,8 +124,9 @@ commit
 ```
 git push origin
 ```
-
 如果遇到 这个报错 那就需要第八步
+
+![picture7](/img/gitlfs/7.PNG)
 
 第八步
 
@@ -129,7 +140,11 @@ git pull
 ```
 git push
 ```
-之后我们就可以去仓库中查看文件了
+![picture8](/img/gitlfs/8.PNG)
+
+最后我们就可以去仓库中查看文件了
+
+![picture9](/img/gitlfs/9.PNG)
 
 
  
