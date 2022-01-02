@@ -60,7 +60,7 @@ gitalk:
   enable: true
   clientID:5c11e3f478f5926b37c5
   clientSecret:e994dcc22832f7970ac622e327766bd7fef20dd2
-  repo: desoiat.github.io
+  repo: comments
   owner:DeSoiat
   admin:DeSoiat
   distractionFreeMode: true
