@@ -1,7 +1,7 @@
 # Site settings
 title: DeSoiat
 SEOTitle: DeSoiat的博客 |(゜-゜)つロ 干杯~-
-header-img: img/404-bg.jpg
+header-img: img/jpg/21.jpg
 email: DeSoiat@HotMail.com
 description: "hey"
 keyword: "DeSoiat的博客,desoiat,DESOIAT"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/name/name.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "试试吧"
+sidebar-about-description: "试试吧 如果成了呢？"
 sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -57,13 +57,13 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
-  clientID:                             #生成的clientID
-  clientSecret:     #生成的clientSecret
-  repo: name.github.io    #仓库名称
-  owner:     #github用户名
-  admin: 
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: true
+  clientID: 5c11e3f478f5926b37c5
+  clientSecret: ff53b23b08228f75962cd8552399b9b4e04aa2c8
+  repo: comments
+  owner: DeSoiat
+  admin: DeSoiat
+  distractionFreeMode: true
 
 
 # 统计
@@ -103,7 +103,7 @@ friends: [
         title: "GOTOVLOG",
         href: "https://gotovlog.com/#"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "VirusTotal",
+        href: "https://www.virustotal.com/gui/home/upload"
     }
 ]
