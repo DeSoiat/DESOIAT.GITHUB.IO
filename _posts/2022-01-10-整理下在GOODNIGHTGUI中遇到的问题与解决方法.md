@@ -7,8 +7,8 @@ author:     DeSoiat
 header-img: img/jpg/11.jpg
 catalog: true
 tags: 
-    - java
-    - css
+    - JAVA
+    - CSS
 ---
 
 
