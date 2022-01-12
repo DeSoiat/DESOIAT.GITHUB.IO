@@ -19,9 +19,6 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 ![picture1](https://assets.leetcode.com/uploads/2021/02/19/rev1ex1.jpg)
 
 ```
-
-class Solution {
-
      //iterate
     public ListNode reverseList(ListNode head) {
         ListNode prev = null; 
@@ -48,7 +45,6 @@ class Solution {
         return newHead;
         
     }
-}
 ```
 
 
