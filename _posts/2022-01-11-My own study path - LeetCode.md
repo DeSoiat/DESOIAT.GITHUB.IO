@@ -19,31 +19,34 @@ Given the head of a singly linked list, reverse the list, and return the reverse
 ![picture1](https://assets.leetcode.com/uploads/2021/02/19/rev1ex1.jpg)
 
 ```
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
- 
- //iterate
+
 class Solution {
+
+     //iterate
     public ListNode reverseList(ListNode head) {
-        ListNode prev = null;
+        ListNode prev = null; 
         ListNode next;
         ListNode current = head;
 
         while (current != null){
-            next = current.next;
-            current.next = prev;
-            prev = current;
-            current = next;
+            next = current.next; //store the next pointer
+            current.next = prev; //point the next to pre or null value 
+            prev = current; // store the current value to prev so the next value would point to the current value
+            current = next; // move down the list
         }
-            return prev;
+            return prev; 
+    }
+    
+    //recursive
+     public ListNode reverseList(ListNode head) {
+        
+         if(head == null || head.next ==null){return head;}
+     
+        ListNode newHead = reverseList(head.next);
+        head.next.next = head;
+        head.next = null;
+        return newHead;
+        
     }
 }
 ```
