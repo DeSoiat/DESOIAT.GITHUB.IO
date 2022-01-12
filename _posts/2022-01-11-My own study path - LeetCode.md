@@ -16,6 +16,8 @@ tags:
 
 Given the head of a singly linked list, reverse the list, and return the reversed list.
 
+![picture1](https://assets.leetcode.com/uploads/2021/02/19/rev1ex1.jpg)
+
 ```
 /**
  * Definition for singly-linked list.
