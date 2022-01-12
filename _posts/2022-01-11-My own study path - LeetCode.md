@@ -31,7 +31,7 @@ class Solution {
         while (current != null){
             next = current.next; //store the next pointer
             current.next = prev; //point the next to pre or null value 
-            prev = current; // store the current value to prev so the next value would point to the current value
+            prev = current; // store the current value to prev so the next value will point to the current value for prev
             current = next; // move down the list
         }
             return prev; 
