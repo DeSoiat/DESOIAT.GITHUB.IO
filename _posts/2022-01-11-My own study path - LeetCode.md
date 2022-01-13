@@ -102,13 +102,14 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
         Map<Integer,Integer> map = new HashMap<Integer,Integer>();
 
         for(int i=0;i <= nums.length-1;i++) {
-            
-            map.put(nums[i],i); // (2,0) , (7,1) , (11,2) (15,3)
+           
 
            if(map.containsKey(target - nums[i])) // put in 2 check for 15 no, then put in 7 check for 8 no, put in 11 check for 4 no , put in 15 check for 2 yes return
            { 
                return new int[]{map.get(target - nums[i]),i}; 
            }
+           
+            map.put(nums[i],i); 
 
         }
         return new int[0];
