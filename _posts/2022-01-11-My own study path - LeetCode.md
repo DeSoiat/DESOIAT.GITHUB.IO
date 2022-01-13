@@ -66,7 +66,7 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
 ```
  /*
-    //最普通的暴力解法
+    //最普通的暴力解法 
     public static int[] twoSum(int[] nums, int target){
         for(int i=0;i< nums.length-1;i++) {
             for (int j = 1; j <= nums.length - 1; j++) {
@@ -95,7 +95,7 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 
     */
 
-    // 优化2 放弃使用 IJ 双循环 改为 使用 map 用循环将数值放入 map 后利用 target - i = y 的计算公式 用containsKey 来查找Y
+    // 优化2 放弃使用 IJ 双循环 改为 使用 map 用循环将数值放入 map 后利用 target - i = y 的计算公式 用containsKey 来查找Y 只需要一次循环即可 o（n）
 
     public static int[] twoSum(int[] nums, int target){
 
