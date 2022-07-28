@@ -1,0 +1,41 @@
+---
+layout:     post
+title:      mc服务器搭建工具包与注意事项
+subtitle:   简简单单搭建个MC服务器
+date:       2022-07-28
+author:     DeSoiat
+header-img: img/jpg/11.jpg
+catalog: true
+tags: 
+    - MC
+    - CMD
+    - server
+---
+
+
+# 前置需求
+
+[工具包-OneDrive](https://1drv.ms/u/s!AgB3rz-DTQyYg10OAUgEaKOIz0yu?e=o8kf5q)
+
+
+---
+
+# java 版本问题
+
+如果运行 run.bat 提示 版本过高 或者 无法运行Run.bat 那么就需要 安装工具包内的JRE到默认路径下（不要更改安装文件夹）
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
