@@ -58,8 +58,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true
-  clientID: 5c11e3f478f5926b37c5
-  clientSecret: ff53b23b08228f75962cd8552399b9b4e04aa2c8
+  clientID: 8d7390ae55b84a927098
+  clientSecret: 6837f3ec3d885e09baf8858a62391a90f5c6be74
   repo: comments
   owner: DeSoiat
   admin: DeSoiat
