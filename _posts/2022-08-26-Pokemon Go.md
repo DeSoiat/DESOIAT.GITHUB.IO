@@ -57,7 +57,7 @@ tags:
 -必须关闭的功能
 ```
 · 系统导航栏
-![picture1](/img/youget/1.png)
+![picture1](/img/pokemongo/1.png)
 
 · pgs 菜单
 
