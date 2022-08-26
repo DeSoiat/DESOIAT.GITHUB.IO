@@ -55,7 +55,7 @@ tags:
 
 
 -必须关闭的功能
-
+```
 · 系统导航栏
 ![picture1](/img/youget/1.png)
 
@@ -66,7 +66,7 @@ tags:
 
 · 关闭附近雷达过滤非异色
 ![picture3](/img/pokemongo/3.png)
-
+```diff
 
 -版本1.18 及以上
 
