@@ -4,7 +4,7 @@ title:      Pokemon Go 狩猎ToolsBox
 subtitle:   狩猎专帖，可以在这里下载到最新版本的狩猎与源工程文件。
 date:       2022-08-26
 author:     DeSoiat
-header-img: img/post-bg-swift2.jpg
+header-img: img/pokemongo/pokemon.jpg
 catalog: true
 tags: 
     - Pokemon Go
