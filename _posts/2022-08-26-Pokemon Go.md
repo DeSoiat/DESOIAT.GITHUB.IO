@@ -31,9 +31,11 @@ tags:
 
 # 百闪狩猎 使用说明
 
-<front color = red>运行百闪狩猎需要PGS会员</front>
+```diff
 
-<front color = red>PGS 必须开启的功能</front>
+-运行百闪狩猎需要PGS会员
+
+-PGS 必须开启的功能
 
 · CD 计时器
 
@@ -52,7 +54,7 @@ tags:
 · 快速捕获
 
 
-<front color = red>必须关闭的功能</front>
+-必须关闭的功能
 
 · 系统导航栏
 
@@ -61,10 +63,10 @@ tags:
 · 点按地面传送
 
 
-<front color = red>版本1.18 及以上</front>
+版本1.18 及以上
 
 
-
+```
 
 
 
