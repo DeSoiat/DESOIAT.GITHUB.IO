@@ -57,15 +57,15 @@ tags:
 -必须关闭的功能
 
 · 系统导航栏
-![picture1](/img/youget/1.jpg)
+![picture1](/img/youget/1.png)
 
 · pgs 菜单
 
 · 点按地面传送
-![picture2](/img/pokemongo/2.jpg)
+![picture2](/img/pokemongo/2.png)
 
 · 关闭附近雷达过滤非异色
-![picture3](/img/pokemongo/3.jpg)
+![picture3](/img/pokemongo/3.png)
 
 
 -版本1.18 及以上
@@ -78,7 +78,7 @@ tags:
 -布置示例图
 
 ```
-![picture4](/img/pokemongo/4.jpg)
+![picture4](/img/pokemongo/4.png)
 
 
 
