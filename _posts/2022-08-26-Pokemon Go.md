@@ -57,12 +57,15 @@ tags:
 -必须关闭的功能
 
 · 系统导航栏
+![picture1](/img/youget/1.jpg)
 
 · pgs 菜单
 
 · 点按地面传送
+![picture2](/img/pokemongo/2.jpg)
 
 · 关闭附近雷达过滤非异色
+![picture3](/img/pokemongo/3.jpg)
 
 
 -版本1.18 及以上
@@ -72,11 +75,10 @@ tags:
  需要将 宝可梦PGS 放在手机的home（主屏幕）页面上
 
 
--示例图
+-布置示例图
 
 ```
-
-
+![picture4](/img/pokemongo/4.jpg)
 
 
 
