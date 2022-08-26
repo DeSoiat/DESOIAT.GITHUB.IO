@@ -20,6 +20,7 @@ tags:
 # 狩猎安装包
 
 [最新版-百闪狩猎](https://1drv.ms/u/s!AgB3rz-DTQyYg10OAUgEaKOIz0yu?e=o8kf5q)
+
 [百闪狩猎v1.17](https://1drv.ms/u/s!AgB3rz-DTQyYg10OAUgEaKOIz0yu?e=o8kf5q)
 
 [最新版-暗影狩猎](https://1drv.ms/u/s!AgB3rz-DTQyYg2FoZwPh8gfYFwgL?e=ndpKGs)
