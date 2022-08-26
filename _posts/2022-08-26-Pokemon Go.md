@@ -93,8 +93,6 @@ tags:
 ---
 
 
-
-
 # 暗影狩猎 使用说明
 
 
@@ -108,7 +106,7 @@ tags:
 
 
 # 如果觉的狩猎还不错的话就请作者喝一杯茶吧！ ᕙ(•̤᷆ ॒ ູ•̤᷇)ᕘ₊˚
-
+![picture5](/img/pokemongo/ali.jpg) ![picture6](/img/pokemongo/wechat.png)
 
 
 
