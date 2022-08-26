@@ -76,13 +76,16 @@ tags:
 -布置示例图
 
 ```
-
+· 系统导航栏
 ![picture1](/img/pokemongo/1.png)
 
+· 点按地面传送
 ![picture2](/img/pokemongo/2.png)
 
+关闭附近雷达过滤非异色
 ![picture3](/img/pokemongo/3.png)
 
+总体布局
 ![picture4](/img/pokemongo/4.png)
 
 
