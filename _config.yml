@@ -60,7 +60,7 @@ gitalk:
   enable: true
   clientID: 8d7390ae55b84a927098
   clientSecret: 6837f3ec3d885e09baf8858a62391a90f5c6be74
-  repo: comments
+  repo: web-comment
   owner: DeSoiat
   admin: DeSoiat
   distractionFreeMode: true
