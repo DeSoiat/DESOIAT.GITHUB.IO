@@ -76,16 +76,16 @@ tags:
 -布置示例图
 
 ```
-· 系统导航栏
+· 关闭系统导航栏
 ![picture1](/img/pokemongo/1.png)
 
-· 点按地面传送
+· 关闭点按地面传送
 ![picture2](/img/pokemongo/2.png)
 
-关闭附近雷达过滤非异色
+· 关闭附近雷达过滤非异色
 ![picture3](/img/pokemongo/3.png)
 
-总体布局
+游戏内总体布局 附近在左 狙击有右
 ![picture4](/img/pokemongo/4.png)
 
 
