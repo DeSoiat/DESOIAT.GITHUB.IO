@@ -56,15 +56,19 @@ tags:
 
 -必须关闭的功能
 ```
+```diff
 · 系统导航栏
+```
 ![picture1](/img/pokemongo/1.png)
-
+```diff
 · pgs 菜单
 
 · 点按地面传送
+```
 ![picture2](/img/pokemongo/2.png)
-
+```diff
 · 关闭附近雷达过滤非异色
+```
 ![picture3](/img/pokemongo/3.png)
 ```diff
 
