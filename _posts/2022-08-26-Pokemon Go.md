@@ -34,19 +34,32 @@ tags:
 <front color = red>运行百闪狩猎需要PGS会员</front>
 
 <front color = red>PGS 必须开启的功能</front>
+
 · CD 计时器
+
 · 快速狙击栏 I
+
 · 附近雷达
+
 · 跳过非异色
+
 · 野外宝可梦 IV
+
 · 精灵球 必中 ex球 
+
 · 跳过过场动画
+
 · 快速捕获
 
+
 <front color = red>必须关闭的功能</front>
+
 · 系统导航栏
+
 · pgs 菜单
+
 · 点按地面传送
+
 
 <front color = red>版本1.18 及以上</front>
 
