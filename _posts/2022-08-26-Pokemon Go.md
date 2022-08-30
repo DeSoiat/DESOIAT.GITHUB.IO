@@ -141,11 +141,14 @@ tags:
 
 ```
 
+正确的布局
+![picture5](/img/pokemongo/an2.png)
 
+正确的布局
+![picture6](/img/pokemongo/an3.png)
 
-
-
-
+特别注意！！！ GPS wrapper 不要遮挡 确认按键！！
+![picture7](/img/pokemongo/an1.png)
 
 
 
