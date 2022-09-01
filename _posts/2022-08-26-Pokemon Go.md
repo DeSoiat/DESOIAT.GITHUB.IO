@@ -27,7 +27,7 @@ tags:
 
 [百闪狩猎1.4 (1.17不能重启的用这个）](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E7%99%BE%E9%97%AA%E7%8B%A9%E7%8C%8E_v1.4.apk)
 
-[最新版-暗影狩猎（rar后缀 下载后添加rar后打开）](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E6%9A%97%E5%BD%B1%E7%8B%A9%E7%8C%8E_v1.3)
+[最新版-暗影狩猎v1.1（rar后缀 下载后添加rar后打开）](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E6%9A%97%E5%BD%B1%E7%8B%A9%E7%8C%8E_v1.1)
 
 ---
 
