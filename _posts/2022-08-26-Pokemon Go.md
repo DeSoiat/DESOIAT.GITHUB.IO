@@ -27,7 +27,9 @@ tags:
 
 [百闪狩猎1.6 （识图） (1.17不能重启的用这个）](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E7%99%BE%E9%97%AA%E7%8B%A9%E7%8C%8E_v1.6.apk)
 
-[最新版-暗影狩猎v1.1（rar后缀 下载后添加rar后打开）](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E6%9A%97%E5%BD%B1%E7%8B%A9%E7%8C%8E_v1.1)
+[最新版-暗影狩猎v1.2](https://1drv.ms/u/s!AgB3rz-DTQyYhC-7qnxdjm4iRTte?e=MT3bdL)
+
+[狩猎 oneDrive （类似度盘）](https://1drv.ms/u/s!AgB3rz-DTQyYhC-7qnxdjm4iRTte?e=MT3bdL)
 
 ---
 
