@@ -21,15 +21,11 @@ tags:
 
 # 狩猎安装包
 
-[最新版-百闪狩猎v1.6](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E7%99%BE%E9%97%AA%E7%8B%A9%E7%8C%8E_v1.6.apk)
 
 [百闪狩猎v1.17(旧版无识图)](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E7%99%BE%E9%97%AA%E7%8B%A9%E7%8C%8E_v1.1.7.apk)
 
-[百闪狩猎1.6 （识图） (1.17不能重启的用这个）](https://github.com/DeSoiat/DESOIAT.GITHUB.IO/raw/main/download/%E7%99%BE%E9%97%AA%E7%8B%A9%E7%8C%8E_v1.6.apk)
 
-[最新版-暗影狩猎v1.2](https://1drv.ms/u/s!AgB3rz-DTQyYhC-7qnxdjm4iRTte?e=MT3bdL)
-
-[狩猎 oneDrive （类似度盘）](https://1drv.ms/u/s!AgB3rz-DTQyYhC-7qnxdjm4iRTte?e=MT3bdL)
+[狩猎 oneDrive （类似度盘）](https://1drv.ms/u/s!AgB3rz-DTQyYhC-7qnxdjm4iRTte?e=ZaUtPs)
 
 ---
 
