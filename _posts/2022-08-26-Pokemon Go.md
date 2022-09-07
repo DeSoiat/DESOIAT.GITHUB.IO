@@ -26,6 +26,7 @@ tags:
 
 
 [狩猎 oneDrive （类似度盘）](https://1drv.ms/u/s!AgB3rz-DTQyYhC-7qnxdjm4iRTte?e=ZaUtPs)
+[狩猎 （度盘）](链接: https://pan.baidu.com/s/1IjPPVh6EVWMvHjxXcgiraw?pwd=svae 提取码: svae 复制这段内容后打开百度网盘手机App，操作更方便哦)
 
 ---
 
