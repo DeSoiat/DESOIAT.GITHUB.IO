@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      整理下在GOODNIGHTGUI中遇到的问题与解决方法
-subtitle:   整理下在GOODNIGHTGUI中遇到的问题与解决方法
+title:      整理下遇到的问题与解决方法
+subtitle:   整理下遇到的问题与解决方法
 date:       2022-01-10
 author:     DeSoiat
 header-img: img/jpg/11.jpg
@@ -108,6 +108,15 @@ windows环境下，Intellij idea12中maven操作时，控制台中文乱码问�
 解决方法：
 
 Setting-> maven->runner -> VMoptions: -Dfile.encoding=GB2312
+
+# Issues 8 ：CSV中文乱码(utf-8)的解决
+
+背景：数据表（utf-8格式，含中文）内容导出为csv文件，打开，乱码。
+原因：csv默认中文支持ANSI编码，且没有预留修改编码的选项。
+解决：那只能我们修改csv的中文编码格式为ANSI了。
+右键csv->打开方式->选择“记事本”（此时神奇的发现没乱码了，记事本支持utf-8）->另存为->
+在弹出的窗口中选择编码‘ANSI’，名称同名，覆盖即可。
+此时再打开csv，中文乱码就消失了。
 
 
 
