@@ -99,6 +99,18 @@ public class main {
 JAVAFX 使用 Thread.sleep(totalTime); 会导致整个GUI陷入冻结状态 目前仍在解决 个人想法是创建个新线程 然后需要sleep的线程与GUI分开
 
 
+# Issues 8 ：控制台中文 输出乱码
+
+windows环境下，Intellij idea12中maven操作时，控制台中文乱码问题（编译报错或者clean install时出现的其他错误描述乱码）
+
+在cmd中mvn中文正常显示,log4j打印日志也是ok的。
+
+解决方法：
+
+Setting-> maven->runner -> VMoptions: -Dfile.encoding=GB2312
+
+
+
 
 
 
